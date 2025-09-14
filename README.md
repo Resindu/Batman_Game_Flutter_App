@@ -6,7 +6,7 @@ A Flutter application demonstrating **state management using Bloc** with a Batma
 
 ## Demo
 
-![Demo](assets/videos/demo.gif)
+![Demo](videos/demo.gif)
 
 
 <video width="600" controls>
