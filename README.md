@@ -6,6 +6,9 @@ A Flutter application demonstrating **state management using Bloc** with a Batma
 
 ## Demo
 
+![Demo](assets/videos/demo.gif)
+
+
 <video width="600" controls>
   <source src="assets/videos/demo.webm" type="video/webm">
   Your browser does not support the video tag.
