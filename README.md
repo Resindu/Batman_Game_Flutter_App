@@ -1,24 +1,41 @@
-# batman_game
+# Batman Game – Flutter Counter App
 
-A new Flutter project.
+A Flutter application demonstrating **state management using Bloc** with a Batman-themed counter. Users can **increment, decrement, or reset** the counter while viewing a demo video of the app in action.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-### Demo
+## Demo
 
 <video width="600" controls>
   <source src="assets/videos/demo.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Increment, decrement, and reset a counter using **Bloc state management**.  
+- Dynamic UI updates in real-time using `BlocBuilder`.  
+- Themed images (e.g., `batman2.jpg`) enhance the visual experience.  
+- Clean separation of **events, state, and UI** for maintainability.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Getting Started
+
+A starting point for Flutter development. Follow these resources if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)  
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)  
+
+For full Flutter guidance, visit the [official Flutter documentation](https://docs.flutter.dev/).
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/batman_game.git
+   cd batman_game
